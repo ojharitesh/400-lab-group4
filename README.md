@@ -206,5 +206,3 @@ Submit:
 - File system concepts from lecture notes
 
 ---
-
-**Good luck!** Start with the allocation functions, then build up to the full simulation.
