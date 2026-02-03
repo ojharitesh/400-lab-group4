@@ -131,7 +131,9 @@ In `performance_analysis_starter.py`, fill in the `visualize_comparison()` funct
 **NOTE** : To generate the visualization we need to create virtual env and then install matpotlib. Here is how you do it:
 
 Step 1: `python3 -m venv venv`
+
 Step 2: `source venv/bin/activate`
+
 Step 3: `pip install matplotlib`
 
 The visualization might appear! 
