@@ -128,15 +128,13 @@ In `performance_analysis_starter.py`, fill in the `visualize_comparison()` funct
 
 **Reminder:** If matplotlib is not installed, the starter code will skip visualization. Install it with `pip install matplotlib`.
 
-**NOTE** : To generate the visualization we need to create virtual env and then install matpotlib. Here is how you do it:
+**NOTE** : To generate the visualization we need to create virtual environment and then install matpotlib. Here is how you do it:
 
 Step 1: `python3 -m venv venv`
 
 Step 2: `source venv/bin/activate`
 
 Step 3: `pip install matplotlib`
-
-The visualization might appear! 
 
 ## Deliverables
 
