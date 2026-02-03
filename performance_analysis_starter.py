@@ -1,6 +1,6 @@
 """
 Lab Activity: Performance Analysis of File Allocation Strategies
-STARTER TEMPLATE - Complete the TODO sections
+Complete the TODO sections
 """
 
 import random
