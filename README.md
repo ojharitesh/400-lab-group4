@@ -149,12 +149,9 @@ Step 3: `pip install matplotlib`
    - Comparison summary table
    - Bar chart visualization (saved as PNG)
 
-3. **Short report** (1-2 pages) answering:
-   - Which strategy resulted in fewer seeks and lower fragmentation?
-   - How did allocation time compare?
-   - What happens to performance as the disk fills up?
-   - How does this demonstrate the importance of file system design?
-
+3. **Reflection**:
+   - Complete 4 questions in the reflection_quesstions.md
+   
 ## Getting Started
 
 1. Open `performance_analysis_starter.py`
