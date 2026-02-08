@@ -187,6 +187,33 @@ Submit:
 2. The generated visualization image (`allocation_comparison.png`)
 3. A brief report with your analysis and answers to the questions
 
+## Automated Grading (GatorGrade)
+
+This assignment includes a `gatorgrade.yml` file that runs checks for:
+
+- Remaining TODOs in the starter code
+- Core allocation function behavior
+- Reflection completeness (name, Q1/Q3/Q4 responses, and output block)
+
+### Running the checks
+
+1. Install GatorGrade (one-time):
+
+   ```bash
+   pipx install gatorgrade
+   ```
+
+   If you do not have `pipx`, install it with `pip install pipx` and then run
+   `pipx ensurepath`.
+
+2. Run the checks from the assignment folder:
+
+   ```bash
+   gatorgrade
+   ```
+
+If a check fails, read the error message for what to fix and re-run GatorGrade.
+
 ## Grading Rubric
 
 - **Implementation (40%)**: Correct allocation functions and simulation
